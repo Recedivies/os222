@@ -24,4 +24,4 @@ permalink: LINKS/
 
 5. [How SSH works?](https://gutsytechster.wordpress.com/2017/12/31/how-ssh-works/)
 
-   Seperti pada assignments, kita telah belajar dan menggunakan SSH. Namun, di sini membahas mengenai cara kerja dari SSH. Isinya lengkap dan agak advanced, terdapat juga teknik enkripsi pada _Symmetric_ dan _Asymmetric_.
+   Seperti pada assignments, kita telah belajar dan menggunakan SSH. Namun, di sini membahas mengenai cara kerja dari SSH. Isinya lengkap dan agak advanced, terdapat juga teknik enkripsi pada _Symmetric_ dan _Asymmetric_. Jika tertarik untuk mempelajari hal-hal tersebut maka blog ini direkomendasikan untuk dibaca. Ingat, seperti pada judul blog nya (**Curiosity never ends**). 
