@@ -25,3 +25,12 @@ permalink: LINKS/
 5. [How SSH works?](https://gutsytechster.wordpress.com/2017/12/31/how-ssh-works/)
 
    Seperti pada assignments, kita telah belajar dan menggunakan SSH. Namun, di sini membahas mengenai cara kerja dari SSH. Isinya lengkap dan agak advanced, terdapat juga teknik enkripsi pada _Symmetric_ dan _Asymmetric_. Jika tertarik untuk mempelajari hal-hal tersebut maka blog ini direkomendasikan untuk dibaca. Ingat, seperti pada judul blog nya (**Curiosity never ends**). 
+
+6. [Memory layout of C](https://www.youtube.com/watch?v=kpWG423uQIw)
+
+   Di video mempelajari tentang struktur memory di sebuah program C. Disini juga dijelaskan cara melihat struktur dari program C yang kita tulis.
+
+7. [File Allocation Table (YouTube)](https://www.youtube.com/watch?v=V2Gxqv3bJCk)
+
+   Mempelajari cara kerja FAT yang akan memberikan ide dasar terkait file system. Video di atas memberikan penjelasan yang baik dan singkat.
+
