@@ -34,3 +34,7 @@ permalink: LINKS/
 
    Mempelajari cara kerja FAT yang akan memberikan ide dasar terkait file system. Video di atas memberikan penjelasan yang baik dan singkat.
 
+8. [C++ Pointers, References and Dynamic Memory Allocation (**Recommended**)](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp4_PointerReference.html)
+
+   Notes ini mempelajari Pointers, References pada Bahasa Pemrograman C++. Seharusnya C++ dengan C tidak jauh beda dan harusnya konsepnya sama saja. Notesnya lengkap dengan penjelasan dan konsep.
+
