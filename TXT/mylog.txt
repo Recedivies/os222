@@ -49,3 +49,15 @@ ZCZC W04  5 L05 QUIZ
 ZCZC W04 99 L09 Weekly Assignments
 ZCZC W04 40 L07 Demo related
 ZCZC W04 10 L41 Update TXT/mylog.txt
+ZCZC W05 20 L00 General, etc.
+ZCZC W05 20 L01 SCELE/Discord related
+ZCZC W05 120 L02 ZOOM meetings related (04-10-2022)
+ZCZC W05 120 L02 Offline class (06-10-2022)
+ZCZC W05 10 L03 GitHub related
+ZCZC W05 10 L04 GitHub Pages related
+ZCZC W05 100 L09 Weekly Assignments
+ZCZC W05 100 L05 Studying and doing WEEK05 Quiz 01 and 02
+ZCZC W05 60 L07 Demo related
+ZCZC W05 40 L14 Reading requirements and doing assignment #05
+ZCZC W05 10 L43 Peer review and updating myrank.txt
+ZCZC W05 10 L41 Update TXT/mylog.txt

@@ -38,3 +38,6 @@ permalink: LINKS/
 
    Notes ini mempelajari Pointers, References pada Bahasa Pemrograman C++. Seharusnya C++ dengan C tidak jauh beda dan harusnya konsepnya sama saja. Notesnya lengkap dengan penjelasan dan konsep.
 
+9. [07 Paging](https://github.com/mor1/ia-operating-systems/wiki/07-Paging)
+
+   Artikel ini menjelaskan secara lengkap tentang paging. Misalnya, itu menunjukkan karya-karya tabel halaman juga mencantumkan pro dan kontra. Ini juga menunjukkan bagaimana paging dapat dioptimalkan menggunakan terjemahan lookaside buffer (TLB) dan paging bertingkat.
