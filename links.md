@@ -44,8 +44,8 @@ permalink: LINKS/
 
 10. [Pointers, Stack & Heap Memory](https://google.com)
 
-   Pdf ini membahas tentang variable pointer, pass-by-value vs pass-by-reference, dimana tempat stack itu disimpan dan apa yang disimpan heap, mekanisme penyimpanan stack dan heap, dan meringkas apa itu malloc().
+    Pdf ini membahas tentang variable pointer, pass-by-value vs pass-by-reference, dimana tempat stack itu disimpan dan apa yang disimpan heap, mekanisme penyimpanan stack dan heap, dan meringkas apa itu malloc().
 
 11. [fork() function in C (YouTube)](https://www.youtube.com/watch?v=cex9XrZCU14)
 
-   fork() merupakan salah satu fungsi pada bahasa C dimana fungsi ini cukup dalam membuat program parallel (multiprocessing). Pada video ini, dijelaskan secara detil mengenai apa yang dilakukan oleh fungsi fork().
+    fork() merupakan salah satu fungsi pada bahasa C dimana fungsi ini cukup dalam membuat program parallel (multiprocessing). Pada video ini, dijelaskan secara detil mengenai apa yang dilakukan oleh fungsi fork().
