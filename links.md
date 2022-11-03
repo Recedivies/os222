@@ -41,3 +41,11 @@ permalink: LINKS/
 9. [07 Paging](https://github.com/mor1/ia-operating-systems/wiki/07-Paging)
 
    Artikel ini menjelaskan secara lengkap tentang paging. Misalnya, menunjukkan macam-macam tabel paging serta mencantumkan pro dan kontra. Di sana juga menunjukkan bagaimana paging dapat dioptimalkan menggunakan terjemahan lookaside buffer (TLB).
+
+10. [Pointers, Stack & Heap Memory, malloc() (pdf)](https://people.cs.clemson.edu/~jmarty/courses/commonCourseContent/Module2-ProgrammingReview/MemoryAndMalloc.pdf)
+
+   Pdf ini membahas tentang variable pointer, pass-by-value vs pass-by-reference, dimana tempat stack itu disimpan dan apa yang disimpan heap, mekanisme penyimpanan stack dan heap, dan meringkas apa itu malloc().
+
+11. [fork() function in C (YouTube)](https://www.youtube.com/watch?v=cex9XrZCU14)
+
+   fork() merupakan salah satu fungsi pada bahasa C dimana fungsi ini cukup dalam membuat program parallel (multiprocessing). Pada video ini, dijelaskan secara detil mengenai apa yang dilakukan oleh fungsi fork().
