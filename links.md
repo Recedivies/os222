@@ -42,7 +42,7 @@ permalink: LINKS/
 
    Artikel ini menjelaskan secara lengkap tentang paging. Misalnya, menunjukkan macam-macam tabel paging serta mencantumkan pro dan kontra. Di sana juga menunjukkan bagaimana paging dapat dioptimalkan menggunakan terjemahan lookaside buffer (TLB).
 
-10. [Pointers, Stack & Heap Memory, malloc() (pdf)](https://people.cs.clemson.edu/~jmarty/courses/commonCourseContent/Module2-ProgrammingReview/MemoryAndMalloc.pdf)
+10. [Pointers, Stack & Heap Memory](https://google.com)
 
    Pdf ini membahas tentang variable pointer, pass-by-value vs pass-by-reference, dimana tempat stack itu disimpan dan apa yang disimpan heap, mekanisme penyimpanan stack dan heap, dan meringkas apa itu malloc().
 
