@@ -73,3 +73,15 @@ ZCZC W06 60 L07 Demo related
 ZCZC W06 40 L14 Reading requirements and doing assignment #W06
 ZCZC W06 10 L43 Peer review and updating myrank.txt
 ZCZC W06 10 L41 Update TXT/mylog.txt
+ZCZC W07 20 L00 General, etc.
+ZCZC W07 20 L01 SCELE/Discord related
+ZCZC W07 120 L02 Offline class (08-11-2022)
+ZCZC W07 120 L02 Offline class (10-11-2022)
+ZCZC W07 10 L03 GitHub related
+ZCZC W07 10 L04 GitHub Pages related
+ZCZC W07 100 L09 Weekly Assignments
+ZCZC W07 100 L05 Studying and doing WEEK05 Quiz 01 and 02
+ZCZC W07 60 L07 Demo related
+ZCZC W07 40 L14 Reading requirements and doing assignment #W07
+ZCZC W07 10 L43 Peer review and updating myrank.txt
+ZCZC W07 10 L41 Update TXT/mylog.txt

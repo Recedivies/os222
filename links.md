@@ -49,3 +49,7 @@ permalink: LINKS/
 11. [fork() function in C (YouTube)](https://www.youtube.com/watch?v=cex9XrZCU14)
 
     fork() merupakan salah satu fungsi pada bahasa C dimana fungsi ini cukup dalam membuat program parallel (multiprocessing). Pada video ini, dijelaskan secara detil mengenai apa yang dilakukan oleh fungsi fork().
+
+12. [Deadlock](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+
+    Deadlock merupakan salah satu masalah pada pemrograman multithreading. Pada situs ini dijelaskan apa itu deadlock, kondisi yang harus terpenuhi supaya bisa terjadi deadlock, serta penjelasan-penjelasan dari setiap kondisi tersebut.
