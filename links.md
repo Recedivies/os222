@@ -53,3 +53,9 @@ permalink: LINKS/
 12. [Deadlock](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
 
     Deadlock merupakan salah satu masalah pada pemrograman multithreading. Pada situs ini dijelaskan apa itu deadlock, kondisi yang harus terpenuhi supaya bisa terjadi deadlock, serta penjelasan-penjelasan dari setiap kondisi tersebut.
+
+13. [CPU scheduling policy & round robin scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+
+    Salah satu hal yang cukup penting dalam multiprogramming adalah scheduling. Pada webpage ini, kita akan dikenalkan dengan beberapa istilah (throughput, turnaround, dsb), serta kita juga akan diperkenalkan dengan beberapa scheduling policy, termasuk round robin scheduling.
+
+
