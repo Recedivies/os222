@@ -58,4 +58,6 @@ permalink: LINKS/
 
     Salah satu hal yang cukup penting dalam multiprogramming adalah scheduling. Pada webpage ini, kita akan dikenalkan dengan beberapa istilah (throughput, turnaround, dsb), serta kita juga akan diperkenalkan dengan beberapa scheduling policy, termasuk round robin scheduling.
 
+14. [Disk Scheduling Algorithms](https://www.geeksforgeeks.org/disk-scheduling-algorithms/?ref=lbp)
 
+    Bagus untuk mulai mempelajari algoritma Disk Scheduling.
