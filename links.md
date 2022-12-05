@@ -61,3 +61,9 @@ permalink: LINKS/
 14. [Disk Scheduling Algorithms](https://www.geeksforgeeks.org/disk-scheduling-algorithms/?ref=lbp)
 
     Bagus untuk mulai mempelajari algoritma Disk Scheduling.
+
+15. [Free Raid Calculator](https://www.raid-calculator.com/)
+
+    Calculator of capacity, speed gain, and fault tolerance in disk with raid.
+
+
